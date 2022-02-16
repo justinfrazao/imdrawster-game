@@ -1,0 +1,12 @@
+.lobby-screen {
+    margin: 10pt;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+.lobby-names {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}

@@ -1,0 +1,27 @@
+.board-width {
+  max-width: 344px;
+}
+
+#drawarea {
+  background-color: gainsboro;
+}
+
+.board-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.game-buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.draw-button {
+  margin-top: 2pt;
+  margin-right: 2pt;
+}
+
+.game-button {
+  margin-top: 2pt;
+  margin-left: 2pt;
+}

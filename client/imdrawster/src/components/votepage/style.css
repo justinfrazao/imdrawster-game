@@ -1,0 +1,12 @@
+input[name="radio"] { display:none; }
+
+.Voting-Toggle-Button.active { background-color: #dc3545 !important; }
+
+.modal-body {
+    padding: 0px !important;
+}
+
+.voting-canvas-div {
+    display: flex;
+    justify-content: center;
+}

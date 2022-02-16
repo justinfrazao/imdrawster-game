@@ -1,0 +1,6 @@
+.invalid-lobby {
+  margin: 10pt;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

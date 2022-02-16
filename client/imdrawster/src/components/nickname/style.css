@@ -1,0 +1,16 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+
+.nickname {
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+.submit-btn {
+    margin-top: 8pt;
+}
